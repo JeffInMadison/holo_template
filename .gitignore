@@ -18,3 +18,7 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+.metadata
+library_actionbarsherlock/.settings
+library_facebook/.settings
+library_holoeverywhere/.settings
